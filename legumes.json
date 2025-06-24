@@ -1,0 +1,29 @@
+[
+    {
+        "id": 1,
+        "nom": "Tomates",
+        "dureeDeVie": 120,
+        "ligneSelected": 1,
+        "colonneSelected": 2,
+        "maturite": 80,
+        "stock": 4
+    },
+    {
+        "id": 2,
+        "nom": "Carottes",
+        "dureeDeVie": 90,
+        "ligneSelected": 2,
+        "colonneSelected": 3,
+        "maturite": 70,
+        "stock": 4
+    },
+    {
+        "id": 3,
+        "nom": "Haricots",
+        "dureeDeVie": 60,
+        "ligneSelected": 3,
+        "colonneSelected": 1,
+        "maturite": 50,
+        "stock": 4
+    }
+]
