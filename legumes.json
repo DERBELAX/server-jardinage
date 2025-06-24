@@ -5,8 +5,7 @@
         "dureeDeVie": 120,
         "ligneSelected": 1,
         "colonneSelected": 2,
-        "maturite": 80,
-        "stock": 4
+        "maturite": 80
     },
     {
         "id": 2,
@@ -14,8 +13,7 @@
         "dureeDeVie": 90,
         "ligneSelected": 2,
         "colonneSelected": 3,
-        "maturite": 70,
-        "stock": 4
+        "maturite": 70
     },
     {
         "id": 3,
@@ -23,7 +21,6 @@
         "dureeDeVie": 60,
         "ligneSelected": 3,
         "colonneSelected": 1,
-        "maturite": 50,
-        "stock": 4
+        "maturite": 50
     }
 ]
