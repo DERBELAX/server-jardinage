@@ -63,6 +63,4 @@ app.post('/stocks/reset', (req, res) => {
   res.json({ success: true, reset: defaultStocks });
 });
 
-app.listen(PORT, () => {
-  console.log(`Serveur backend prêt sur http://localhost:${PORT}`);
-});
+
