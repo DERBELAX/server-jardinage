@@ -21,8 +21,8 @@ app.get('/legumes', (req, res) => {
 
 const stockFile = './stocks.json';
 const defaultStocks = [
-  { nom: "Tomates", stock: 3 },
-  { nom: "Carottes", stock: 3 },
+  { nom: "Tomates", stock: 10 },
+  { nom: "Carottes", stock: 10 },
   { nom: "Salades", stock: 3 },
   { nom: "Courgettes", stock: 3 },
   { nom: "Poivrons", stock: 3 },
